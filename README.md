@@ -4,7 +4,7 @@ Meu nome é Kauã weligton
 
 atual estudante da alura from brazil
 
-desenvolvendo linguagens de de programação javascript
+desenvolvendo linguagens de JavaScript)
 
-![](https://tenor.com/pt-BR/view/rainbow-six-siege-rainbow-six-siege-funny-hell-play109-r6-gif-16253800)
+![](https://media1.tenor.com/m/_CbgL8Ei3xYAAAAd/rainbow-six-siege-rainbow-six-siege-funny.gif)
 
