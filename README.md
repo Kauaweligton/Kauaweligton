@@ -1,10 +1,9 @@
-## boas vindas ao meu perfil.
+## Boas vindas ao meu perfil.
 
-Meu nome é Kauã weligton
+Meu nome é Kauã Weligton
 
-atual estudante da alura from brazil
+Atual estudante da alura from brazil
 
-desenvolvendo linguagens de JavaScript)
+Desenvolvendo linguagens de JavaScript
 
-![](https://media1.tenor.com/m/_CbgL8Ei3xYAAAAd/rainbow-six-siege-rainbow-six-siege-funny.gif)
-
+![](https://media.tenor.com/o6Mvwp9Urq8AAAAi/skibidi-toilet.gif)
